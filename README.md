@@ -3,11 +3,11 @@
 ## 🚀 Proyectos Destacados
 
 - **[lazysql](https://github.com/jorgerojas26/lazysql)**  
-  🗄️ Explorador interactivo de bases de datos en terminal (TUI). Context-aware, non-blocking, con drivers modulares.
+  🗄️ Explorador interactivo de bases de datos en terminal (TUI)
 
-- **[tucorocatolico](https://github.com/jorgerojas26/tucorocatolico)**  
-  ⛪ Plataforma católica con recursos, contenido espiritual y comunidad.
+- **[tucorocatolico](https://www.tucorocatolico.com)**  
+  ⛪ App móvil para gestionar coros parroquiales católicos
 
 ---
 
-⚡ Apasionado por la línea de comandos, las bases de datos y el código limpio.
+⚡ Me apasiona toparme con un problema y resolverlo con software
